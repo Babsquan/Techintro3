@@ -1,0 +1,44 @@
+h1{color: crimson;
+    background-color: rgba(242, 242, 242, 0.728);
+font-size: 20px;
+border: 10px solid rgb(138, 4, 4);
+padding-left: 20px;
+padding-bottom: 10px;}
+    p{color: blueviolet;}
+    .header1{color: coral;
+    font-style: oblique; border: 1px solid black;}
+    .header2{color: #ce94a4;}
+    .header3{color: brown;}
+    .sub1{
+        border: none;
+        background-color: aqua;
+        color: brown;
+        padding-left: 50px; 
+        padding-right: 50px;
+        margin: 100px;
+    }
+    .lorem1{
+      border: 1px solid rgb(20, 220, 50) ;
+      background-color: whitesmoke;
+      font-size: medium;
+      text-align: center;
+      border-radius: 20px;
+       margin-left: 50px; 
+       margin-right: 500px;
+    }
+    .span1{
+      font-size: 30px;
+      width: 10px; color: black; }
+.seconddiv{
+    background-color: tomato;
+    width: 60%;
+    display: flex;
+}
+.child1{
+    background-color: rgb(255, 212, 71);
+    width: 40%;
+}
+.child2{
+    background-color: rgb(15, 14, 13);
+    width: 40%;
+}
